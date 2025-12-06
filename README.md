@@ -1,8 +1,8 @@
 # Alex Rodriguez
 
-**`Mathematics & Engineering Graduate`**
+**`Systems Engineering Graduate Student`**
 
-I'm a recent graduate of the Mathematics and Engineering - Bachelor of Applied Science program at Queen's University, specializing in Systems and Robotics. I've accumulated nearly 2 years of engineering workplace experience and am well versed in advanced data analytics and mathematical systems. 
+I am a Systems Engineering graduate student (MSc) at the University of Ottaawa and a graduate of the Mathematics and Engineering (BASc) program from Queen's University. I've accumulated 2 years of engineering workplace experience and am well versed in advanced data analytics and mathematical systems. 
 
 <!---
 ALEX-R0DRIGUEZ/ALEX-R0DRIGUEZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
